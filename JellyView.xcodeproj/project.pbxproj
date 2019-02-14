@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3777ACE62214EC0700145449 /* JellyView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3777ACE52214EC0700145449 /* JellyView.xib */; };
 		37A8CFA32214C524007977F4 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37A8CFA22214C524007977F4 /* AppDelegate.swift */; };
 		37A8CFA52214C524007977F4 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37A8CFA42214C524007977F4 /* ViewController.swift */; };
 		37A8CFA82214C524007977F4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 37A8CFA62214C524007977F4 /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3777ACE52214EC0700145449 /* JellyView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = JellyView.xib; sourceTree = "<group>"; };
 		37A8CF9F2214C524007977F4 /* JellyView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = JellyView.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		37A8CFA22214C524007977F4 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		37A8CFA42214C524007977F4 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -57,6 +59,7 @@
 				37A8CFA22214C524007977F4 /* AppDelegate.swift */,
 				37A8CFA42214C524007977F4 /* ViewController.swift */,
 				37A8CFA62214C524007977F4 /* Main.storyboard */,
+				3777ACE52214EC0700145449 /* JellyView.xib */,
 				37A8CFA92214C526007977F4 /* Assets.xcassets */,
 				37A8CFAB2214C526007977F4 /* LaunchScreen.storyboard */,
 				37A8CFAE2214C526007977F4 /* Info.plist */,
@@ -123,6 +126,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				37A8CFAD2214C526007977F4 /* LaunchScreen.storyboard in Resources */,
+				3777ACE62214EC0700145449 /* JellyView.xib in Resources */,
 				37A8CFAA2214C526007977F4 /* Assets.xcassets in Resources */,
 				37A8CFA82214C524007977F4 /* Main.storyboard in Resources */,
 			);
